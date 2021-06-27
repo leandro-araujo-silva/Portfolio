@@ -12,6 +12,8 @@
 
 Site que fala um pouco sobre mim e dos meus principais projetos pessoais.<br> Baseado em uma aplicação da NLW-Together da Rocketseat.
 
+Link para a visualização do projeto: https://portfolio-alpha-six-81.vercel.app/
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
