@@ -331,6 +331,7 @@ nav.show div.icon-close {
 
 #about .image img {
   position: relative;
+  width: 80%;
 }
 
 #about .image img,
