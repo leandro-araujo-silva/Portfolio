@@ -364,6 +364,14 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
+.card img {
+  transition: 0.3s;
+}
+
+.card img:hover {
+  transform: translateY(-10px);
+}
+
 .card .title {
   font-size: 1.5rem;
   margin-bottom: 0.75rem;
@@ -663,6 +671,10 @@ footer .social a:hover {
     max-width: 1120px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  nav {
+    width: 98%;
   }
 
   .section {
