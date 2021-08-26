@@ -1,3 +1,5 @@
+alert("Site sofrerá manutenção, pois ocorreu um problema, no dia 25/08, na seção de tecnologias que impactou na seção inicial.")
+
 /*  abre e fecha o menu quando clicar no icone: hamburguer e x */
 const nav = document.querySelector('#header nav')
 const toggle = document.querySelectorAll('nav .toggle')
