@@ -1,5 +1,3 @@
-alert("Site sofrerá manutenção, pois ocorreu um problema, no dia 25/08, na seção de tecnologias que impactou na seção inicial.")
-
 /*  abre e fecha o menu quando clicar no icone: hamburguer e x */
 const nav = document.querySelector('#header nav')
 const toggle = document.querySelectorAll('nav .toggle')
@@ -33,7 +31,7 @@ function changeHeaderWhenScroll() {
   }
 }
 
-/* Testimonials carousel slider swiper */
+/* Testimonials carousel slider swiper 
 const swiper = new Swiper('.swiper-container', {
   slidesPerView: 1,
   pagination: {
@@ -43,11 +41,13 @@ const swiper = new Swiper('.swiper-container', {
   keyboard: true,
   breakpoints: {
     767: {
-      slidesPerView: 2,
+      slidesPerView: 3,
       setWrapperSize: true
     }
   }
 })
+
+*/
 
 /* ScrollReveal: Mostrar elementos quando der scroll na página */
 const scrollReveal = ScrollReveal({

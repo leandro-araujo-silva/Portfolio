@@ -103,6 +103,10 @@ body {
   gap: 2rem;
 }
 
+.grid-swiper {
+  display: grid;
+}
+
 .section {
   padding: calc(5rem + var(--header-height)) 0;
 }
@@ -431,7 +435,7 @@ nav.show div.icon-close {
 /* swiper */
 .swiper-slide {
   height: auto;
-  padding: 4rem 1rem;
+  padding: 1rem;
 }
 
 .swiper-pagination-bullet {
