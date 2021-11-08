@@ -370,6 +370,7 @@ nav.show div.icon-close {
 
 .card img {
   transition: 0.3s;
+  border: 1.2rem solid transparent;                /* Adicionei */  
 }
 
 .card img:hover {
